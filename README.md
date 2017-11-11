@@ -7,7 +7,7 @@
 Technology: 
 - HTML
 - CSS3
-https://codepen.io/malevolentninja/pen/VMEbEy
+[Demo](https://codepen.io/malevolentninja/pen/VMEbEy)
 
 ### 2. Carousel with navigation arrows and slides total
 
@@ -16,5 +16,4 @@ Technology:
 - HTML
 - CSS
 - JavaScript
-
-https://codepen.io/malevolentninja/pen/boxKYZ
+[Demo](https://codepen.io/malevolentninja/pen/boxKYZ)
